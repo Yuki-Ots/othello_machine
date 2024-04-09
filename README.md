@@ -1,4 +1,6 @@
 # othello machine
+Arduinoとタッチパネルディスプレイを用いた携帯オセロゲーム機。とても簡単な対戦COMと戦う。
+
 ２０１９年９月２７日にv1.0作成
 Arduino Uno, Arduino Mega対応のオセロマシーンのコードです。
 他のヘッダファイルもLibrariesファイルにあるのでArduinoIDEの
