@@ -1,3 +1,4 @@
+# othello machine
 ２０１９年９月２７日にv1.0作成
 Arduino Uno, Arduino Mega対応のオセロマシーンのコードです。
 他のヘッダファイルもLibrariesファイルにあるのでArduinoIDEの
@@ -7,7 +8,7 @@ Arduino Uno, Arduino Mega対応のオセロマシーンのコードです。
 使ってください。
 
 
-### 2024年4月8日　追記
+## 2024年4月8日　追記
 ライブラリーとファイル直下のソースは取り除いてプッシュした。
 実際に動かしたい場合、ライブラリとして、
 - Adafruit_GFX         https://github.com/adafruit/Adafruit-GFX-Library
@@ -16,7 +17,7 @@ Arduino Uno, Arduino Mega対応のオセロマシーンのコードです。
 - TouchScreen          https://github.com/adafruit/Adafruit_TouchScreen         
 が必要。
 
-### 当時使用したもの。
+## 当時使用したもの
 arduino mega(互換品)
 
 3.5インチタッチパネルディスプレイ(現在は見つからなかった)
