@@ -24,4 +24,4 @@ arduino mega(互換品)
 ### 完成品
 <img src="https://github.com/Yuki-Ots/othello_machine/blob/main/picture/完成品.png" height="300"/>
 
-<img src="https://github.com/Yuki-Ots/othello_machine/blob/main/picture/完成品2.png", height="300"/>
+<img src="https://github.com/Yuki-Ots/othello_machine/blob/main/picture/完成品2.png" height="300"/>
